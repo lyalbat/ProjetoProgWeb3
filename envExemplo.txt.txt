@@ -1,0 +1,7 @@
+DB_USER = "Usuario"
+DB_PWD = "Senha"
+DB_NAME = "Banco de dados"
+DB_HOST = "Host"
+DB_PORT = "Porta do banco"
+DB_DIALECT = "Linguagem usada (postgres)"
+PORT = "Porta da aplicação"
