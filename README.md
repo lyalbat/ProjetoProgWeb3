@@ -9,7 +9,7 @@ Instalando os pacotes necessários
   npm install express sequelize dotenv 
 ```
 
-##Conexão Banco de Dados
+## Conexão Banco de Dados
 
 Utilizar o seguinte comando para conexão:
 ```bash
