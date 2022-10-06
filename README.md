@@ -3,7 +3,7 @@ REST api de consulta de veículos - caso especial: Naves do universo de Star Tre
 
 ## Instalação
 
-Instalando os pacotes necessários
+Instalando os pacotes necessários:
 
 ```bash
   npm install express sequelize dotenv 
@@ -18,7 +18,7 @@ Utilizar o seguinte comando para conexão:
 
 ## Deploy
 
-Para fazer o deploy desse projeto rode
+Rodando o projeto:
 
 ```bash
   npm run dev
